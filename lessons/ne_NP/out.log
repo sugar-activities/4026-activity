@@ -1,0 +1,37 @@
+
+(lessonbuilder:2401): Gtk-WARNING **: Whoever translated default:LTR did so wrongly.
+
+Usage: lessonbuilder [options]
+
+lessonbuilder: error: no such option: --make-intro-lesson
+
+(lessonbuilder:2402): Gtk-WARNING **: Whoever translated default:LTR did so wrongly.
+
+Usage: lessonbuilder [options]
+
+lessonbuilder: error: no such option: --make-key-lesson
+
+(lessonbuilder:2403): Gtk-WARNING **: Whoever translated default:LTR did so wrongly.
+
+Usage: lessonbuilder [options]
+
+lessonbuilder: error: no such option: --make-key-lesson
+
+(lessonbuilder:2404): Gtk-WARNING **: Whoever translated default:LTR did so wrongly.
+
+Usage: lessonbuilder [options]
+
+lessonbuilder: error: no such option: --make-key-lesson
+
+(lessonbuilder:2405): Gtk-WARNING **: Whoever translated default:LTR did so wrongly.
+
+Usage: lessonbuilder [options]
+
+lessonbuilder: error: no such option: --make-key-lesson
+./MAKELESSONS: line 41: --wordlist=ne_NP.dic: command not found
+
+(lessonbuilder:2407): Gtk-WARNING **: Whoever translated default:LTR did so wrongly.
+
+Usage: lessonbuilder [options]
+
+lessonbuilder: error: no such option: --make-key-lesson
